@@ -1,0 +1,7 @@
+﻿"Pstrut_L"= 24in'Primary Strut Length
+"Pstrut_T"= 0.25in'Primary Strut Thickness
+"Pstrut_D"= 2in'Primary Strut Diameter 
+"Sstrut_T" = 0.25in'Secondary Strut Thickness
+"Sstrut_L"= 24in'Secondary Strut Length
+"Sstrut_D"= 2in'Secondary Strut Diameter
+"LegStance"= 7in
