@@ -5,3 +5,4 @@
 "Sstrut_L"= 24in'Secondary Strut Length
 "Sstrut_D"= 2in'Secondary Strut Diameter
 "LegStance"= 7in
+"Variable" = 5in
